@@ -10,6 +10,9 @@ I'm a passionate Junior Frontend Developer specializing in the MERN stack (Mongo
 - 💡 I’m interested in collaborating on open-source projects and contributing to the developer community.
 - 📫 How to reach me: jasaiful@gmail.com | [LinkedIn](https://www.linkedin.com/in/julfikerali/)
 
+## Current GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasaiful&theme=whatsapp-dark2&border_radius=10)](https://git.io/streak-stats)
+
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js
