@@ -1,6 +1,4 @@
-# Hi there, I'm Julfiker Ali! 👋
-
-![Cover Photo](link_to_your_cover_photo.jpg)
+![Cover Photo](https://i.ibb.co/8c0MNwP/cover-photo.png)
 
 ## About Me
 I'm a passionate Junior Frontend Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I love crafting engaging and user-friendly interfaces, and I'm enthusiastic about learning new technologies to enhance my skills.
@@ -8,16 +6,13 @@ I'm a passionate Junior Frontend Developer specializing in the MERN stack (Mongo
 - 🔭 I’m currently working on honing my skills in React.js and Redux.
 - 🌱 I’m continuously learning and exploring new technologies in the frontend realm.
 - 💡 I’m interested in collaborating on open-source projects and contributing to the developer community.
-- 📫 How to reach me: jasaiful@gmail.com | [LinkedIn](https://www.linkedin.com/in/julfikerali/)
+- 📫 How to reach me: jasaiful@gmail.com | [LinkedIn](https://www.linkedin.com/in/julfikerali/) | [Facebook](https://www.facebook.com/julfikarsaiful)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,vscode)](https://skillicons.dev)
 
 ## Current GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasaiful&theme=whatsapp-dark2&border_radius=10)](https://git.io/streak-stats)
-
-## Tech Stack
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Other Tools: Git, VS Code, npm, Tailwind
 
 ## Projects
 Here are some projects I've worked on:
@@ -38,10 +33,6 @@ The Career Center website serves as a comprehensive platform offering job listin
 [Client Side Repository Link](https://github.com/jasaiful/brand-shop-client.git)  
 [Server Side Repository Link](https://github.com/jasaiful/brand-shop-server.git)  
 The Brand-Shop website is an online platform dedicated to showcasing and selling a diverse range of branded products. It offers a user-friendly interface where customers can browse, explore, and purchase products from various renowned brands. The website often features a wide array of items spanning categories like fashion, electronics, home goods, and more. Through its intuitive design and comprehensive product listings, the Brand-Shop website aims to provide a seamless shopping experience for users seeking quality products from trusted brands.
-
-## Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,vscode)](https://skillicons.dev)
-
 
 ## Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to reach out:
