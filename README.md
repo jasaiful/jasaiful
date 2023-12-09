@@ -36,21 +36,8 @@ The Career Center website serves as a comprehensive platform offering job listin
 [Server Side Repository Link](https://github.com/jasaiful/brand-shop-server.git)  
 The Brand-Shop website is an online platform dedicated to showcasing and selling a diverse range of branded products. It offers a user-friendly interface where customers can browse, explore, and purchase products from various renowned brands. The website often features a wide array of items spanning categories like fashion, electronics, home goods, and more. Through its intuitive design and comprehensive product listings, the Brand-Shop website aims to provide a seamless shopping experience for users seeking quality products from trusted brands.
 
-## Skill that I know
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML-orange?style=for-the-badge&logo=html5" alt="HTML">
-  <img src="https://img.shields.io/badge/Frontend-CSS-blue?style=for-the-badge&logo=css3" alt="CSS">
-  <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react" alt="React.js">
-  <img src="https://img.shields.io/badge/Frontend-Redux-purple?style=for-the-badge&logo=redux" alt="Redux"><br>
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/Backend-Express.js-lightgrey?style=for-the-badge&logo=express" alt="Express.js"><br>
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" alt="MongoDB"><br>
-  <img src="https://img.shields.io/badge/Other%20Tools-Git-black?style=for-the-badge&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/Other%20Tools-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode" alt="VS Code">
-  <img src="https://img.shields.io/badge/Other%20Tools-npm-red?style=for-the-badge&logo=npm" alt="npm">
-  <img src="https://img.shields.io/badge/Other%20Tools-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS">
-</p>
+## Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 ## Let's Connect!
