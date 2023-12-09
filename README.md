@@ -1,9 +1,9 @@
 ![Cover Photo](https://i.ibb.co/8c0MNwP/cover-photo.png)
 
 ## About Me
-I'm a passionate Junior Frontend Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I love crafting engaging and user-friendly interfaces, and I'm enthusiastic about learning new technologies to enhance my skills.
+I'm a passionate Junior Front-End Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I love crafting engaging and user-friendly interfaces, and I'm enthusiastic about learning new technologies to enhance my skills.
 
-- 🔭 I’m currently working on honing my skills in React.js and Redux.
+- 🔭 I’m currently working on honing my skills in React.js and Next.js.
 - 🌱 I’m continuously learning and exploring new technologies in the frontend realm.
 - 💡 I’m interested in collaborating on open-source projects and contributing to the developer community.
 - 📫 How to reach me: jasaiful@gmail.com | [LinkedIn](https://www.linkedin.com/in/julfikerali/) | [Facebook](https://www.facebook.com/julfikarsaiful)
@@ -36,5 +36,7 @@ The Brand-Shop website is an online platform dedicated to showcasing and selling
 
 ## Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to reach out:
-- [LinkedIn](https://www.linkedin.com/in/julfikerali/)
+- Cell: +88 01620585826
 - [Email](jasaiful@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/julfikerali/)
+- [Facebook](https://www.facebook.com/julfikarsaiful)
