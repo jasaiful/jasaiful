@@ -11,7 +11,7 @@ I'm a passionate Junior Frontend Developer specializing in the MERN stack (Mongo
 - 📫 How to reach me: jasaiful@gmail.com | [LinkedIn](https://www.linkedin.com/in/julfikerali/)
 
 ## Tech Stack
-- Frontend: HTML, CSS, JavaScript, React.js, Redux
+- Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Other Tools: Git, VS Code, npm, Tailwind
@@ -37,7 +37,7 @@ The Career Center website serves as a comprehensive platform offering job listin
 The Brand-Shop website is an online platform dedicated to showcasing and selling a diverse range of branded products. It offers a user-friendly interface where customers can browse, explore, and purchase products from various renowned brands. The website often features a wide array of items spanning categories like fashion, electronics, home goods, and more. Through its intuitive design and comprehensive product listings, the Brand-Shop website aims to provide a seamless shopping experience for users seeking quality products from trusted brands.
 
 ## Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,vscode)](https://skillicons.dev)
 
 
 ## Let's Connect!
