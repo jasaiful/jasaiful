@@ -18,24 +18,13 @@ I'm a passionate Junior Frontend Developer specializing in the MERN stack (Mongo
 
 ## Projects
 Here are some projects I've worked on:
-- [Survey_Master]
-(Client Side GitHub Repository Link: https://github.com/jasaiful/survey-master-client.git
-
-Server-Side GitHub Repository Link: https://github.com/jasaiful/survey-master-server.git
-
-Front-end Live Site Link:
-	https://glittery-fenglisu-571f28.netlify.app/ 
-	https://surveymaster-96ecd.web.app/
-)
+- # Survey_Master
+[Project Live Link](https://surveymaster-96ecd.web.app)
+[Client Side Repository Link](https://github.com/jasaiful/survey-master-client.git)
+[Client Side Repository Link](https://github.com/jasaiful/survey-master-server.git)
 : SurveyMaster Pro is an advanced Polling and Survey application developed using the MERN stack. It enables users to create, participate in, and analyze surveys, fostering interactive engagement and insightful data visualization. Integrated with payment functionalities, user management, and robust role-based access control, it offers a comprehensive platform for survey creation, voting, and result analysis.
-
-
-
-- [Project Name](Link to Project Repository): Brief description of the project.
-- [Project Name](Link to Project Repository): Brief description of the project.
 
 ## Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/julfikerali/)
-- [Portfolio Website](Your Portfolio Website Link)
 - [Email](jasaiful@gmail.com)
