@@ -1,4 +1,4 @@
-![Cover Photo](https://i.ibb.co/8c0MNwP/cover-photo.png)
+![Cover Photo](https://i.ibb.co/VBWmjn8/Cover-Page.png)
 
 ## About Me
 I'm a passionate Junior Front-End Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I love crafting engaging and user-friendly interfaces, and I'm enthusiastic about learning new technologies to enhance my skills.
