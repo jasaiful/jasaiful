@@ -16,11 +16,11 @@ I'm a passionate Junior Front-End Developer specializing in the MERN stack (Mong
 
 ## Projects
 Here are some projects I've worked on:
-- ### Survey Master
-[Project Live Link](https://surveymaster-96ecd.web.app)  
-[Client Side Repository Link](https://github.com/jasaiful/survey-master-client.git)  
-[Server Side Repository Link](https://github.com/jasaiful/survey-master-server.git)  
-SurveyMaster Pro is an advanced Polling and Survey application developed using the MERN stack. It enables users to create, participate in, and analyze surveys, fostering interactive engagement and insightful data visualization. Integrated with payment functionalities, user management, and robust role-based access control, it offers a comprehensive platform for survey creation, voting, and result analysis.
+- ### NexTrade: Elevating User Engagement & Interface Innovations (Team Project)
+[Project Live Link](https://nextrade-front-end.vercel.app)  
+[Client Side Repository Link](https://github.com/diptomahin/nextrade.git)  
+[Server Side Repository Link](https://github.com/diptomahin/nexTrade-server.git)  
+At NexTrade, a leading online trading platform, I spearheaded front-end innovation as a front-end developer. My contributions included implementing dynamic Contact-us sections, updating the Help Centre with informative FAQ content, and integrating Trader's Feedback with a user-friendly form. I enabled the backend for dynamic feedback and crafted a dynamic Watchlist & Wallet UI. Join NexTrade for an innovative, user-centric, and seamless online trading experience.
 
 - ### Career Center
 [Project Live Link](https://neon-baklava-ee1d7f.netlify.app)  
@@ -33,6 +33,12 @@ The Career Center website serves as a comprehensive platform offering job listin
 [Client Side Repository Link](https://github.com/jasaiful/brand-shop-client.git)  
 [Server Side Repository Link](https://github.com/jasaiful/brand-shop-server.git)  
 The Brand-Shop website is an online platform dedicated to showcasing and selling a diverse range of branded products. It offers a user-friendly interface where customers can browse, explore, and purchase products from various renowned brands. The website often features a wide array of items spanning categories like fashion, electronics, home goods, and more. Through its intuitive design and comprehensive product listings, the Brand-Shop website aims to provide a seamless shopping experience for users seeking quality products from trusted brands.
+
+- ### Survey Master
+[Project Live Link](https://surveymaster-96ecd.web.app)  
+[Client Side Repository Link](https://github.com/jasaiful/survey-master-client.git)  
+[Server Side Repository Link](https://github.com/jasaiful/survey-master-server.git)  
+SurveyMaster Pro is an advanced Polling and Survey application developed using the MERN stack. It enables users to create, participate in, and analyze surveys, fostering interactive engagement and insightful data visualization. Integrated with payment functionalities, user management, and robust role-based access control, it offers a comprehensive platform for survey creation, voting, and result analysis.
 
 ## Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to reach out:
